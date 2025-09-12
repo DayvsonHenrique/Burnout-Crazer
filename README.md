@@ -16,4 +16,5 @@ Com base nessa pesquisa conseguimos ter uma noção dessa problemática e defini
 <img width="1102" height="637" alt="Capturar" src="https://github.com/user-attachments/assets/812fd19c-106a-4794-8e00-8921d6010beb" />
 
 Integrantes:
+- Eduardo José Alexandre Rocha
 - Isabel Lugon
