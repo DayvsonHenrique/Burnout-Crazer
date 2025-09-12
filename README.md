@@ -19,3 +19,4 @@ Integrantes:
 - Eduardo José Alexandre Rocha
 - Isabel Lugon Leitão de Oliveira
 - José Edson Teixeira Galdino
+- Nathan Vinicius Liberato de Souza 
