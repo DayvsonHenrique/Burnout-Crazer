@@ -17,4 +17,4 @@ Com base nessa pesquisa conseguimos ter uma noção dessa problemática e defini
 
 Integrantes:
 - Eduardo José Alexandre Rocha
-- Isabel Lugon
+- Isabel Lugon Leitão de Oliveira
