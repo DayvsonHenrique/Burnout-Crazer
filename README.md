@@ -1,6 +1,9 @@
 # Burnout-Crazer
 Projeto acadêmico sobre Síndrome de Burnout
 
+# Link para o nosso organizador de tarefa:
+https://burnoutcrazer.atlassian.net/jira/core/projects/CRAZER/board?filter=&groupBy=status&atlOrigin=eyJpIjoiODAzNWEzOWQ4YTMxNDJjZjlkMmFiNmNmOTQ5MDI4Y2YiLCJwIjoiaiJ9
+
 **Arquitetura**
 
 A **Síndrome de Burnout**, ou esgotamento profissional, é um distúrbio emocional e físico causado por estresse crônico no trabalho, resultando em exaustão, cinismo e sentimento de ineficácia.  
