@@ -20,3 +20,4 @@ Integrantes:
 - Isabel Lugon Leitão de Oliveira
 - José Edson Teixeira Galdino
 - Nathan Vinicius Liberato de Souza 
+- Dayvson Henrique Da Silva Mendes 
