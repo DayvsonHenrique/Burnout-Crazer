@@ -16,6 +16,8 @@ Com base nessa pesquisa conseguimos ter uma noção dessa problemática e defini
 
 ![Imagem do WhatsApp de 2025-09-11 à(s) 22 10 03_bbdacf29](https://github.com/user-attachments/assets/a4df8227-b29a-4be8-83b6-5ac49fb83098)
 
+Screencast: 
+
 Integrantes:
 - Eduardo José Alexandre Rocha
 - Isabel Lugon Leitão de Oliveira
