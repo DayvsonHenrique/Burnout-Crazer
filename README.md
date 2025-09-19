@@ -29,3 +29,22 @@ Integrantes:
 - Nathan Vinicius Liberato de Souza
 - Marcos Vinicius Medeiros
 - Dayvson Henrique Da Silva Mendes 
+
+-------------------------------------------------------------------------------------------------------
+
+#Atualizações (18/09/2025)
+
+As atividades de nosso projeto foram atualizadas e repaginadas dando inicio a parte em que realmente teriamos que desenvolver visualmente e logicamente, e como dormar organizacional, fizemos prototipos de telas que usaremos em nossa aplicação, as quais seram demonsadas logo a baixo.
+
+figura 1
+
+Para abranger mais, foi-se gravado um video mostrando toda as funcionmlidades e aplicações que terão no nosso app.
+
+skeencast
+
+
+E de forma organizacional, fizemos um fluxograma o qual demosntra todo o camnha que o usuario poderá seguir usando a aplicação, segue abaixo o diagrama.
+
+diagrama 1
+
+E alem de reforçar o empenho fizemos alterações em nossas futuras atualizações e qual faze seguir adiante, e tudo isso esta organizado e bem organico demosntrado no JIra da equipe.
