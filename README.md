@@ -40,8 +40,7 @@ Para abranger mais, foi-se gravado um video mostrando toda as funcionmlidades e 
 
 E para complementarde formamos um fluxograma no intuito de nosso cliente final entender de forma logica como toda a nossa aplicação e tudo o que a compões são intrissicamente ligados e interagem entre si, evitando assim diversos error e tornando a experiência de nossos usuário muito mais fluda e satisfatoria, logo abaixo estara a nossa representação de como funcionará nossa aplicação:
 
-[Diagrama sem nome.drawio.pdf](https://github.com/user-attachments/files/22426593/Diagrama.sem.nome.drawio.pdf)
-
+[Fluxograma da inicialização do app.pdf](https://github.com/user-attachments/files/22426804/Fluxograma.da.inicializacao.do.app.pdf)
 
 E pra finalizar o relatório dessa nossa atualização, a proxima imagem demonstra o progresso da equipe com o aumento significativo de atividades realizadas até então alem de demonstrar o "Bug Traker" com todos os reponsaves e relatores separados com suas atividades e trabalhos especificados:
 
