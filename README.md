@@ -1,6 +1,14 @@
 # Burnout-Crazer
 Projeto acadêmico sobre Síndrome de Burnout
 
+Integrantes:
+- Dayvson Henrique Da Silva Mendes 
+- Eduardo José Alexandre Rocha
+- Isabel Lugon Leitão de Oliveira
+- José Edson Teixeira Galdino
+- Marcos Vinicius Medeiros
+- Nathan Vinicius Liberato de Souza
+
 # Link para o nosso organizador de tarefa:
 https://burnoutcrazer.atlassian.net/jira/core/projects/CRAZER/board?filter=&groupBy=status&atlOrigin=eyJpIjoiODAzNWEzOWQ4YTMxNDJjZjlkMmFiNmNmOTQ5MDI4Y2YiLCJwIjoiaiJ9
 
@@ -16,13 +24,6 @@ Com base nessa pesquisa conseguimos ter uma noção dessa problemática e defini
 
 ![Imagem do WhatsApp de 2025-09-11 à(s) 22 10 03_bbdacf29](https://github.com/user-attachments/assets/a4df8227-b29a-4be8-83b6-5ac49fb83098)
 
-Integrantes:
-- Eduardo José Alexandre Rocha
-- Isabel Lugon Leitão de Oliveira
-- José Edson Teixeira Galdino
-- Nathan Vinicius Liberato de Souza
-- Marcos Vinicius Medeiros
-- Dayvson Henrique Da Silva Mendes 
 
 -------------------------------------------------------------------------------------------------------
 
