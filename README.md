@@ -16,10 +16,6 @@ Com base nessa pesquisa conseguimos ter uma noção dessa problemática e defini
 
 ![Imagem do WhatsApp de 2025-09-11 à(s) 22 10 03_bbdacf29](https://github.com/user-attachments/assets/a4df8227-b29a-4be8-83b6-5ac49fb83098)
 
-Screencast: 
-
-https://youtu.be/unEm3cf3pmU
-
 Integrantes:
 - Eduardo José Alexandre Rocha
 - Isabel Lugon Leitão de Oliveira
@@ -30,19 +26,23 @@ Integrantes:
 
 -------------------------------------------------------------------------------------------------------
 
-#Atualizações (18/09/2025)
+# Atualizações (18/09/2025)
 
-As atividades de nosso projeto foram atualizadas e repaginadas dando inicio a parte em que realmente teriamos que desenvolver visualmente e logicamente, e como dormar organizacional, fizemos prototipos de telas que usaremos em nossa aplicação, as quais seram demonsadas logo a baixo.
+As atividades de nosso projeto foram atualizadas e repaginadas dando inicio a parte em que realmente teriamos que desenvolver visualmente a nossa aplicação e de forma bem mais paupavel e simples pro nosso cliente final entender o que está sendo feito e qual o nosso objetivo final que está muito bem representado visualmente na plataforma "Figma", o link de acesso estará logo abaixo:
 
-figura 1
+https://www.figma.com/design/8J1lIrlRx1VODItoxtfgk4/Burnou-Crazer-app?t=x3AgNroQVeUGu5rJ-1
 
-Para abranger mais, foi-se gravado um video mostrando toda as funcionmlidades e aplicações que terão no nosso app.
+Para abranger mais, foi-se gravado um video mostrando toda as funcionmlidades e aplicações que terão no nosso app:
 
-skeencast
+[skeencast](https://youtu.be/unEm3cf3pmU)
 
 
-E de forma organizacional, fizemos um fluxograma o qual demosntra todo o camnha que o usuario poderá seguir usando a aplicação, segue abaixo o diagrama.
+E para complementarde formamos um fluxograma no intuito de nosso cliente final entender de forma logica como toda a nossa aplicação e tudo o que a compões são intrissicamente ligados e interagem entre si, evitando assim diversos error e tornando a experiência de nossos usuário muito mais fluda e satisfatoria, logo abaixo estara a nossa representação de como funcionará nossa aplicação:
 
-diagrama 1
+[Diagrama sem nome.drawio.pdf](https://github.com/user-attachments/files/22426593/Diagrama.sem.nome.drawio.pdf)
 
-E alem de reforçar o empenho fizemos alterações em nossas futuras atualizações e qual faze seguir adiante, e tudo isso esta organizado e bem organico demosntrado no JIra da equipe.
+
+E pra finalizar o relatório dessa nossa atualização, a proxima imagem demonstra o progresso da equipe com o aumento significativo de atividades realizadas até então alem de demonstrar o "Bug Traker" com todos os reponsaves e relatores separados com suas atividades e trabalhos especificados:
+
+<img width="957" height="846" alt="image" src="https://github.com/user-attachments/assets/5dbe7de4-d04a-435f-be7d-e96343b04b53" />
+
