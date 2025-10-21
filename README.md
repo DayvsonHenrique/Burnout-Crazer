@@ -48,20 +48,26 @@ E pra finalizar o relatório dessa nossa atualização, a proxima imagem demonst
 
 # Atualizações (10/10/2025)
 
-No dia (10/10/2025) a equipe se reunio para discutirmos o proceguimento de nosso projeto no intuito de atender a demandas, as quais ja se encaminhavam para a nossa 3º e uma das mais principais entregas do projeto, a qual demandaria o desenvolvimento pratica de 3 casos de uso que foram definidos no inicio do desenvolvimento de todo esse app, a partir desse ponto, desenvolvemos diagramas de casos de uso que teriam como sua principal funcionalidade uma maior facilicade no entendidmento de nossos desenvolvedores sobre como cada área estaria se comportando e como suas funcionalidades se aplicariam na execução do app, alem de tambem demonstrar como as proprias funcionalidades interagiriam entre si.
+No dia 10/10/2025, a equipe se reuniu para discutir o andamento de nosso projeto, com o objetivo de atender às demandas que já se encaminhavam para a nossa 3ª e uma das entregas mais importantes do projeto. Essa entrega demandaria o desenvolvimento prático de 3 casos de uso, que foram definidos no início do desenvolvimento de todo o aplicativo.
 
-segue anexo de nosso primeiro diagrama iluhstrando como seria a tela inicial e como ela estaria funcionando em um ambito geral:
+A partir desse ponto, desenvolvemos diagramas de casos de uso, cuja principal funcionalidade seria facilitar o entendimento de nossos desenvolvedores sobre como cada área do aplicativo estaria se comportando e como suas funcionalidades se aplicariam na execução do app. Além disso, os diagramas também demonstrariam como as próprias funcionalidades interagiriam entre si.
 
-imagem do diagrama
+Segue em anexo o nosso primeiro diagrama, ilustrando como seria a tela inicial e como ela funcionaria de forma geral:
+
+[imagem do diagrama]
 
 #(14/10/2025)
 
-Em nossa reunião do dia (14/10/2025) conseguimos apartir dos conhecimentos gerais de nossos colegas pensar em usar a ferramente "FIGMA" no intuito de gerar um codigo funcional para a nosaa a aplicação, assim diminuindo e facilitando o desenvolvimento, o qual so deveriamos nos preocupar posteriormene com sua funcionalidade, ou seja o back end. E com isso nós conseguirimos realizar a demanda dos 3 casos de uso, os quais usaremos como uma prévia de como ficará o nosso produto final.
+Na nossa reunião de 14/10/2025, conseguimos, a partir dos conhecimentos gerais de nossos colegas, pensar em utilizar a ferramenta "FIGMA" para gerar um código funcional para a nossa aplicação, facilitando o desenvolvimento. Dessa forma, passaríamos a nos preocupar apenas com a funcionalidade, ou seja, com o backend. Com isso, conseguimos realizar a demanda dos 3 casos de uso, que usaremos como uma prévia de como ficará o nosso produto final.
 
-Segue anexo de como  está ficando a organização de nossa ferramenta de gerenciamento de equipe ( JIRA):
+Segue em anexo a organização de nossa ferramenta de gerenciamento de equipe (JIRA):
+
+[Anexo do JIRA]
 
 #(18/10/2025)
 
-Na data (18/10/2025) ocorreu um grande desentendimento  com os planos e assinaturas do Figma, o que provavelmente iria forçar a pausar do desenvolvimento do projeto, mas por sorte uma de nossas integrantes possui conhecimentos na area de desnvolvimento de apps, então através destas conseguimos realizer a criação deste app.
+No dia 18/10/2025, ocorreu um grande desentendimento com os planos e assinaturas do Figma, o que provavelmente forçaria a pausa no desenvolvimento do projeto. No entanto, por sorte, uma de nossas integrantes possui conhecimentos na área de desenvolvimento de apps e, graças a isso, conseguimos realizar a criação do aplicativo.
 
-Segue anexo que monstra uma de nossas telas ja funfional 
+Segue em anexo uma das telas já funcionais do app:
+
+[Anexo da tela funcional]
