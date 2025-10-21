@@ -46,3 +46,20 @@ E pra finalizar o relatório dessa nossa atualização, a proxima imagem demonst
 
 <img width="957" height="846" alt="image" src="https://github.com/user-attachments/assets/5dbe7de4-d04a-435f-be7d-e96343b04b53" />
 
+# Atualizações (10/10/2025)
+
+No dia (10/10/2025) a equipe se reunio para discutirmos o proceguimento de nosso projeto no intuito de atender a demandas, as quais ja se encaminhavam para a nossa 3º e uma das mais principais entregas do projeto, a qual demandaria o desenvolvimento pratica de 3 casos de uso que foram definidos no inicio do desenvolvimento de todo esse app, a partir desse ponto, desenvolvemos diagramas de casos de uso que teriam como sua principal funcionalidade uma maior facilicade no entendidmento de nossos desenvolvedores sobre como cada área estaria se comportando e como suas funcionalidades se aplicariam na execução do app, alem de tambem demonstrar como as proprias funcionalidades interagiriam entre si.
+
+segue anexo de nosso primeiro diagrama iluhstrando como seria a tela inicial e como ela estaria funcionando em um ambito geral:
+
+imagem do diagrama
+
+#(14/10/2025)
+
+Em nossa reunião do dia (14/10/2025) conseguimos apartir dos conhecimentos gerais de nossos colegas pensar em usar a ferramente figma no intuito de gerar um codigo funcional para a nosaa a aplicação, assim diminuindo e facilitando o desenvolvimento, o qual so deveriamos nos preocupar posteriormene com sua funcionalidade, ou seja o back end.
+
+#(18/10/2025)
+
+Na data (18/10/2025) ocorreu um grande desentendimento  com os planos e assinaturas do Figma, o que provavelmente iria forçar a pausar do desenvolvimento do projeto, mas por sorte uma de nossas integrantes possui conhecimentos na area de desnvolvimento de apps, então através destas conseguimos realizer a criação deste app.
+
+Segue anexo que monstra uma de nossas telas ja funfional 
