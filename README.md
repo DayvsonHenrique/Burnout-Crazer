@@ -56,7 +56,9 @@ imagem do diagrama
 
 #(14/10/2025)
 
-Em nossa reunião do dia (14/10/2025) conseguimos apartir dos conhecimentos gerais de nossos colegas pensar em usar a ferramente figma no intuito de gerar um codigo funcional para a nosaa a aplicação, assim diminuindo e facilitando o desenvolvimento, o qual so deveriamos nos preocupar posteriormene com sua funcionalidade, ou seja o back end.
+Em nossa reunião do dia (14/10/2025) conseguimos apartir dos conhecimentos gerais de nossos colegas pensar em usar a ferramente "FIGMA" no intuito de gerar um codigo funcional para a nosaa a aplicação, assim diminuindo e facilitando o desenvolvimento, o qual so deveriamos nos preocupar posteriormene com sua funcionalidade, ou seja o back end. E com isso nós conseguirimos realizar a demanda dos 3 casos de uso, os quais usaremos como uma prévia de como ficará o nosso produto final.
+
+Segue anexo de como  está ficando a organização de nossa ferramenta de gerenciamento de equipe ( JIRA):
 
 #(18/10/2025)
 
