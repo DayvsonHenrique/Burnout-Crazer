@@ -54,15 +54,21 @@ A partir desse ponto, desenvolvemos diagramas de casos de uso, cuja principal fu
 
 Segue em anexo o nosso primeiro diagrama, ilustrando como seria a tela inicial e como ela funcionaria de forma geral:
 
-[imagem do diagrama]
+<img width="1251" height="733" alt="image" src="https://github.com/user-attachments/assets/b46077e8-b79d-4a1e-b0ba-d8facd3478ea" />
+
+Segue em anexo a organização de nossa ferramenta de gerenciamento de equipe (JIRA):
+
+<img width="1677" height="896" alt="image" src="https://github.com/user-attachments/assets/af32fc56-5b83-42e4-906b-b30f6f45d68d" />
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #(14/10/2025)
 
 Na nossa reunião de 14/10/2025, conseguimos, a partir dos conhecimentos gerais de nossos colegas, pensar em utilizar a ferramenta "FIGMA" para gerar um código funcional para a nossa aplicação, facilitando o desenvolvimento. Dessa forma, passaríamos a nos preocupar apenas com a funcionalidade, ou seja, com o backend. Com isso, conseguimos realizar a demanda dos 3 casos de uso, que usaremos como uma prévia de como ficará o nosso produto final.
 
-Segue em anexo a organização de nossa ferramenta de gerenciamento de equipe (JIRA):
 
-[Anexo do JIRA]
+
+---------------------------------------------------------------------------------------------------------------------------------
 
 #(18/10/2025)
 
