@@ -86,3 +86,8 @@ No dia 23/10/2025, os integrantes Eduardo Rocha e Isabel Lugon trabalharam junto
 
 ![Erros ](https://github.com/user-attachments/assets/2141cc98-6b1d-40c7-97e9-4b8dd9eb120c)
 
+Além disso, foi encontrado um bug no aplicativo onde a última mensagem enviada não era evidenciada na prévia da conversa. Segue as imagens:
+
+![Prévia da conversa](https://github.com/user-attachments/assets/c6c17dd9-f5c1-46f4-b393-a11aa2471b82)
+![Conversa](https://github.com/user-attachments/assets/950613f0-d107-4b53-b3cc-a2ffc58b1d55)
+
