@@ -79,3 +79,10 @@ Segue em anexo uma das telas já funcionais do app:
 Screencast das telas funcionais: https://www.youtube.com/shorts/0lDdmuJa5kI
 
 [Anexo da tela funcional]
+
+#(23/10/2025)
+
+No dia 23/10/2025, os integrantes Eduardo Rocha e Isabel Lugon trabalharam juntos para fazer o upload da pasta com os arquivos da aplicação, mas sofreram problemas na hora da realização. Mesmo após pesquisar como realizar esse upload no github, ainda assim, receberam erros como retorno. Segue abaixo a imagem:
+
+![Erros ](https://github.com/user-attachments/assets/2141cc98-6b1d-40c7-97e9-4b8dd9eb120c)
+
