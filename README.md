@@ -76,4 +76,6 @@ No dia 18/10/2025, ocorreu um grande desentendimento com os planos e assinaturas
 
 Segue em anexo uma das telas já funcionais do app:
 
+Screencast das telas funcionais: https://www.youtube.com/shorts/0lDdmuJa5kI
+
 [Anexo da tela funcional]
