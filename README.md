@@ -62,7 +62,7 @@ Segue em anexo a organização de nossa ferramenta de gerenciamento de equipe (J
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#(14/10/2025)
+# Reunião do Grupo (14/10/2025)
 
 Na nossa reunião de 14/10/2025, conseguimos, a partir dos conhecimentos gerais de nossos colegas, pensar em utilizar a ferramenta "FIGMA" para gerar um código funcional para a nossa aplicação, facilitando o desenvolvimento. Dessa forma, passaríamos a nos preocupar apenas com a funcionalidade, ou seja, com o backend. Com isso, conseguimos realizar a demanda dos 3 casos de uso, que usaremos como uma prévia de como ficará o nosso produto final.
 
@@ -70,7 +70,7 @@ Na nossa reunião de 14/10/2025, conseguimos, a partir dos conhecimentos gerais 
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-#(18/10/2025)
+# Problema Com a Assinatura do Figma (18/10/2025)
 
 No dia 18/10/2025, ocorreu um grande desentendimento com os planos e assinaturas do Figma, o que provavelmente forçaria a pausa no desenvolvimento do projeto. No entanto, por sorte, uma de nossas integrantes possui conhecimentos na área de desenvolvimento de apps e, graças a isso, conseguimos realizar a criação do aplicativo.
 
@@ -78,9 +78,9 @@ Segue em anexo uma das telas já funcionais do app:
 
 Screencast das telas funcionais: https://www.youtube.com/shorts/0lDdmuJa5kI
 
-[Anexo da tela funcional]
+--------------------------------------------------------------------------------------------------------------------------------
 
-#(23/10/2025)
+# Atualizações (23/10/2025)
 
 No dia 23/10/2025, os integrantes Eduardo Rocha e Isabel Lugon trabalharam juntos para fazer o upload da pasta com os arquivos da aplicação, mas sofreram problemas na hora da realização. Mesmo após pesquisar como realizar esse upload no github, ainda assim, receberam erros como retorno. Segue abaixo a imagem:
 
