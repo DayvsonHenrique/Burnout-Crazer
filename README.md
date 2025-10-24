@@ -69,8 +69,9 @@ Na nossa reunião de 14/10/2025, conseguimos, a partir dos conhecimentos gerais 
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
+# Atualizações do dia (18/10/2025)
 
-# Problema Com a Assinatura do Figma (18/10/2025)
+## Problema Com a Assinatura do Figma 
 
 No dia 18/10/2025, ocorreu um grande desentendimento com os planos e assinaturas do Figma, o que provavelmente forçaria a pausa no desenvolvimento do projeto. No entanto, por sorte, uma de nossas integrantes possui conhecimentos na área de desenvolvimento de apps e, graças a isso, conseguimos realizar a criação do aplicativo.
 
