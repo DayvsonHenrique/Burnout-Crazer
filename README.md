@@ -91,3 +91,8 @@ Além disso, foi encontrado um bug no aplicativo onde a última mensagem enviada
 ![Prévia da conversa](https://github.com/user-attachments/assets/c6c17dd9-f5c1-46f4-b393-a11aa2471b82)
 ![Conversa](https://github.com/user-attachments/assets/950613f0-d107-4b53-b3cc-a2ffc58b1d55)
 
+Evidências do Pair Programming:
+
+<img width="1280" height="676" alt="image" src="https://github.com/user-attachments/assets/bfcd38de-a607-4d3e-909d-309b113b4f59" />
+
+
