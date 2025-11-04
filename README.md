@@ -83,14 +83,7 @@ Screencast das telas funcionais: https://www.youtube.com/shorts/0lDdmuJa5kI
 
 # Atualizações (23/10/2025)
 
-No dia 23/10/2025, os integrantes Eduardo Rocha e Isabel Lugon trabalharam juntos para fazer o upload da pasta com os arquivos da aplicação, mas sofreram problemas na hora da realização. Mesmo após pesquisar como realizar esse upload no github, ainda assim, receberam erros como retorno. Segue abaixo a imagem:
-
-![Erros ](https://github.com/user-attachments/assets/2141cc98-6b1d-40c7-97e9-4b8dd9eb120c)
-
-Além disso, foi encontrado um bug no aplicativo onde a última mensagem enviada não era evidenciada na prévia da conversa. Segue as imagens:
-
-![Prévia da conversa](https://github.com/user-attachments/assets/c6c17dd9-f5c1-46f4-b393-a11aa2471b82)
-![Conversa](https://github.com/user-attachments/assets/950613f0-d107-4b53-b3cc-a2ffc58b1d55)
+No dia 23/10/2025, os integrantes Eduardo Rocha e Isabel Lugon trabalharam juntos para fazer o upload da pasta com os arquivos da aplicação, mas sofreram problemas na hora da realização. Mesmo após pesquisar como realizar esse upload no github, ainda assim, receberam erros como retorno.
 
 Como metodologia de programação optamos por usar o Pair Programming, onde dois devs se juntam para poder criar e resolver erros no código:
 
