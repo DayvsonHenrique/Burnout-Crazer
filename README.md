@@ -89,4 +89,40 @@ Como metodologia de programação optamos por usar o Pair Programming, onde dois
 
 <img width="1280" height="676" alt="image" src="https://github.com/user-attachments/assets/bfcd38de-a607-4d3e-909d-309b113b4f59" />
 
+---------------------------------------------------------------------------------------------------------------------------------
+
+# Atualizações (28/10/2025)
+
+Na reunião desta data tivemos como nosso principal foco o Desenvolvimento da tela de chat, tivemos o encorajamento de por pra frente as divrversas outras historias de usuario que serão mostradas a baixo: 
+-Historias de usuario
+
+
+E para atender essas historias de usuario criamos as seguintes telas:
+
+-Tela de configuração
+-Organizador de tarefas
+-Criar atestado
+-Notificações
+-Tela inicial
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+# Atualizações (31/10/2025)
+
+Na reunião do dia (31/10/2025) conseguimos ter a logica expressa num fluxograma as quais nossas proximas telas seriam desenvolvidas com base nestes fluxogramas que serão demonstrados a baixo:
+
+-Imagem dos demais fluxogramas 
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+# Atualizações (03/11/2025)
+
+Nesta call conseguimos desenvolver nossa tela de login tendo como nosso principal modo de programação a par programi, onde com o esforço dos demais se deu andamento a criação desta tela:
+
+<img width="1625" height="632" alt="image" src="https://github.com/user-attachments/assets/19309068-7e2e-47c9-9cad-d9368364d8e2" />
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+
 
