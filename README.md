@@ -29,20 +29,20 @@ Com base nessa pesquisa conseguimos ter uma noção dessa problemática e defini
 
 # Atualizações (18/09/2025)
 
-As atividades de nosso projeto foram atualizadas e repaginadas dando inicio a parte em que realmente teriamos que desenvolver visualmente a nossa aplicação e de forma bem mais paupavel e simples pro nosso cliente final entender o que está sendo feito e qual o nosso objetivo final que está muito bem representado visualmente na plataforma "Figma", o link de acesso estará logo abaixo:
+As atividades de nosso projeto foram atualizadas e repaginadas, dando início a parte em que realmente teríamos que desenvolver visualmente a nossa aplicação e de forma bem mais palpável e simples para o nosso cliente final entender o que está sendo feito e qual o nosso objetivo final, que está muito bem representado visualmente na plataforma "Figma". O link de acesso estará logo abaixo:
 
 https://www.figma.com/design/8J1lIrlRx1VODItoxtfgk4/Burnou-Crazer-app?t=x3AgNroQVeUGu5rJ-1
 
-Para abranger mais, foi-se gravado um video mostrando toda as funcionmlidades e aplicações que terão no nosso app:
+Para abranger mais, foi gravado um vídeo mostrando toda as funcionalidades e aplicações que terão no nosso app:
 
-[skeencast](https://youtu.be/unEm3cf3pmU)
+[screencast](https://youtu.be/unEm3cf3pmU)
 
 
-E para complementarde formamos um fluxograma no intuito de nosso cliente final entender de forma logica como toda a nossa aplicação e tudo o que a compões são intrissicamente ligados e interagem entre si, evitando assim diversos error e tornando a experiência de nossos usuário muito mais fluda e satisfatoria, logo abaixo estara a nossa representação de como funcionará nossa aplicação:
+E, para complementar, desenvolvemos um fluxograma, no intuito de demonstrar de forma lógica como toda a nossa aplicação funciona e tudo o que a compõe é intrissicamente ligado e interage entre si, evitando assim erros futuros e tornando a experiência de nossos usuário muito mais fluida e satisfatória. Logo abaixo está a representação de como funcionará nossa aplicação:
 
 [Fluxograma da inicialização do app.pdf](https://github.com/user-attachments/files/22426804/Fluxograma.da.inicializacao.do.app.pdf)
 
-E pra finalizar o relatório dessa nossa atualização, a proxima imagem demonstra o progresso da equipe com o aumento significativo de atividades realizadas até então alem de demonstrar o "Bug Traker" com todos os reponsaves e relatores separados com suas atividades e trabalhos especificados:
+E, para finalizar o relatório dessa nossa atualização, a próxima imagem demonstra o progresso da equipe com o aumento significativo de atividades realizadas até o momento, além de demonstrar o "Bug Tracker" com todos os responsáveis e relatores separados com suas atividades e trabalhos especificados:
 
 <img width="957" height="846" alt="image" src="https://github.com/user-attachments/assets/5dbe7de4-d04a-435f-be7d-e96343b04b53" />
 
@@ -64,7 +64,7 @@ Segue em anexo a organização de nossa ferramenta de gerenciamento de equipe (J
 
 # Reunião do Grupo (14/10/2025)
 
-Na nossa reunião de 14/10/2025, conseguimos, a partir dos conhecimentos gerais de nossos colegas, pensar em utilizar a ferramenta "FIGMA" para gerar um código funcional para a nossa aplicação, facilitando o desenvolvimento. Dessa forma, passaríamos a nos preocupar apenas com a funcionalidade, ou seja, com o backend. Com isso, conseguimos realizar a demanda dos 3 casos de uso, que usaremos como uma prévia de como ficará o nosso produto final.
+Na nossa reunião de 14/10/2025, conseguimos, a partir dos conhecimentos gerais de nossos colegas, pensar em utilizar a ferramenta "FIGMA" para gerar um código funcional para a nossa aplicação, facilitando o desenvolvimento. Dessa forma, passaríamos a nos preocupar apenas com a funcionalidade, ou seja, com o back-end. Com isso, conseguimos realizar a demanda dos 3 casos de uso, que usaremos como uma prévia de como ficará o nosso produto final.
 
 
 
@@ -83,7 +83,7 @@ Screencast das telas funcionais: https://www.youtube.com/shorts/0lDdmuJa5kI
 
 # Atualizações (23/10/2025)
 
-No dia 23/10/2025, os integrantes Eduardo Rocha e Isabel Lugon trabalharam juntos para fazer o upload da pasta com os arquivos da aplicação, mas sofreram problemas na hora da realização. Mesmo após pesquisar como realizar esse upload no github, ainda assim, receberam erros como retorno.
+No dia 23/10/2025, os integrantes Eduardo Rocha e Isabel Lugon trabalharam juntos para fazer o upload da pasta com os arquivos da aplicação, mas sofreram problemas na hora da realização. Mesmo após pesquisar como realizar esse upload no GitHub, ainda assim, receberam erros como retorno.
 
 Como metodologia de programação optamos por usar o Pair Programming, onde dois devs se juntam para poder criar e resolver erros no código:
 
@@ -93,31 +93,31 @@ Como metodologia de programação optamos por usar o Pair Programming, onde dois
 
 # Atualizações (28/10/2025)
 
-Na reunião desta data tivemos como nosso principal foco o Desenvolvimento da tela de chat, tivemos o encorajamento de por pra frente as divrversas outras historias de usuario que serão mostradas a baixo: 
--Historias de usuario
+Na reunião desta data tivemos como nosso principal foco o desenvolvimento da tela de chat. Tivemos o encorajamento de por pra frente as diversas outras histórias de usuário que serão mostradas abaixo: 
+- Histórias de usuário
 
 
-E para atender essas historias de usuario criamos as seguintes telas:
+E para atender essas histórias de usuário, criamos as seguintes telas:
 
--Tela de configuração
--Organizador de tarefas
--Criar atestado
--Notificações
--Tela inicial
+- Tela de configuração;
+- Organizador de tarefas;
+- Criar atestado;
+- Notificações;
+- Tela inicial.
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
 # Atualizações (31/10/2025)
 
-Na reunião do dia (31/10/2025) conseguimos ter a logica expressa num fluxograma as quais nossas proximas telas seriam desenvolvidas com base nestes fluxogramas que serão demonstrados a baixo:
+Na reunião do dia 31/10/2025, conseguimos ter a lógica expressa num fluxograma, as quais nossas próximas telas seriam desenvolvidas com base nestes fluxogramas que serão demonstrados a baixo:
 
--Imagem dos demais fluxogramas 
+- Imagem dos demais fluxogramas 
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
 # Atualizações (03/11/2025)
 
-Nesta call conseguimos desenvolver nossa tela de login tendo como nosso principal modo de programação a par programi, onde com o esforço dos demais se deu andamento a criação desta tela:
+Nesta call, conseguimos desenvolver nossa tela de login, tendo como nosso principal método de programação a Pair Programming:
 
 <img width="1625" height="632" alt="image" src="https://github.com/user-attachments/assets/19309068-7e2e-47c9-9cad-d9368364d8e2" />
 
