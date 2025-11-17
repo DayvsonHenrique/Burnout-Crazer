@@ -94,16 +94,21 @@ Como metodologia de programação optamos por usar o Pair Programming, onde dois
 # Atualizações (28/10/2025)
 
 Na reunião desta data tivemos como nosso principal foco o desenvolvimento da tela de chat. Tivemos o encorajamento de por pra frente as diversas outras histórias de usuário que serão mostradas abaixo: 
-- Histórias de usuário
+- Histórias de usuário:
+  - Sugestões de Atividades;
+  - Momento de Meditação;
+  - Redes de Apoio
+  - Mentor Virtual
 
 
 E para atender essas histórias de usuário, criamos as seguintes telas:
 
 - Tela de configuração;
 - Organizador de tarefas;
-- Criar atestado;
 - Notificações;
 - Tela inicial.
+- Tela de chat;
+- Tela de meditação;
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
@@ -111,7 +116,17 @@ E para atender essas histórias de usuário, criamos as seguintes telas:
 
 Na reunião do dia 31/10/2025, conseguimos ter a lógica expressa num fluxograma, as quais nossas próximas telas seriam desenvolvidas com base nestes fluxogramas que serão demonstrados a baixo:
 
-- Imagem dos demais fluxogramas 
+- Imagem dos demais fluxogramas:
+  
+  <img width="1340" height="801" alt="Fluxograma APS 1" src="https://github.com/user-attachments/assets/8cc90e70-7413-464c-939d-5ec44f48f067" />
+
+  
+  <img width="1149" height="774" alt="Fluxograma APS 2" src="https://github.com/user-attachments/assets/b0e95d18-b5eb-4b6b-84ab-170129acdc90" />
+
+
+  <img width="797" height="489" alt="Fluxograma APS 3" src="https://github.com/user-attachments/assets/09ef4e44-6a3f-4e62-88a4-ba74685d6e65" />
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
