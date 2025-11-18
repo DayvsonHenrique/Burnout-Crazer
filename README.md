@@ -145,3 +145,13 @@ Nesta call, conseguimos desenvolver nossa tela de login, tendo como nosso princi
 Screencast Final
 
 https://youtu.be/zKIo8RJe0PI
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+# Documentação 
+
+Esta documentação foi criada para ajudar qualquer pessoa, desde iniciantes até colaboradores experientes, a configurar o ambiente necessário e contribuir com o desenvolvimento do Burnout Crazer. O objetivo é garantir que qualquer desenvolvedor possa entrar no projeto com facilidade, entendendo exatamente como preparar seu computador e como participar da construção do projeto de maneira colaborativa, transparente e eficiente.
+
+[Burnout Crazer - Documentacao.pdf](https://github.com/user-attachments/files/23594890/Burnout.Crazer.-.Documentacao.pdf)
+
+
