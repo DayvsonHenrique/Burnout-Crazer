@@ -89,8 +89,18 @@ Como metodologia de programação optamos por usar o Pair Programming, onde dois
 
 <img width="1280" height="676" alt="image" src="https://github.com/user-attachments/assets/bfcd38de-a607-4d3e-909d-309b113b4f59" />
 
----------------------------------------------------------------------------------------------------------------------------------
+Nesta Call, os integrantes Isabel Lugon e Eduardo Rocha criaram as telas inicial e de chat com ajuda do Figma AI.
 
+---------------------------------------------------------------------------------------------------------------------------------
+# Atualizações (25/10/2025)
+
+No dia 25/10/2025, Os integrantes Eduardo Rocha e Isabel Lugon trabalharam juntos para aprimorar a funcionalidade de registro de humor localizado na tela inicial, implementando uma ferramenta que funciona como histórico de humor. Registrando a data e o humor do usuário.
+
+![WhatsApp Image 2025-11-19 at 19 47 54](https://github.com/user-attachments/assets/3fd8a6f3-4bc5-4bc0-a014-8c2ded144b0f)
+
+--screen cast--
+
+---------------------------------------------------------------------------------------------------------------------------------
 # Atualizações (28/10/2025)
 
 Na reunião desta data tivemos como nosso principal foco o desenvolvimento da tela de chat. Tivemos o encorajamento de por pra frente as diversas outras histórias de usuário que serão mostradas abaixo: 
