@@ -126,7 +126,7 @@ E para atender essas histórias de usuário, criamos as seguintes telas:
 
 Na reunião do dia 31/10/2025, conseguimos ter a lógica expressa num fluxograma, as quais nossas próximas telas seriam desenvolvidas com base nestes fluxogramas que serão demonstrados a baixo:
 
-- Imagem dos demais fluxogramas:
+- Imagem dos demais fluxogramas atualizados:
   
   <img width="1261" height="820" alt="image" src="https://github.com/user-attachments/assets/95355948-c13b-4372-a922-23b6e2f42a7c" />
 
