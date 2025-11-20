@@ -103,22 +103,31 @@ No dia 25/10/2025, os integrantes Eduardo Rocha e Isabel Lugon trabalharam em co
 ---------------------------------------------------------------------------------------------------------------------------------
 # Atualizações (28/10/2025)
 
-Na reunião desta data tivemos como nosso principal foco o desenvolvimento da tela de chat. Tivemos o encorajamento de por pra frente as diversas outras histórias de usuário que serão mostradas abaixo: 
-- Histórias de usuário:
-  - Sugestões de Atividades;
-  - Momento de Meditação;
-  - Redes de Apoio
-  - Mentor Virtual
+Na reunião realizada nesta data, tivemos como principal foco o desenvolvimento da tela de chat. Além disso, fomos encorajados a dar continuidade às demais histórias de usuário, que serão apresentadas a seguir:
 
+Histórias de usuário:
 
-E para atender essas histórias de usuário, criamos as seguintes telas:
+Sugestões de Atividades
 
-- Tela de configuração;
-- Organizador de tarefas;
-- Notificações;
-- Tela inicial.
-- Tela de chat;
-- Tela de meditação;
+Momento de Meditação
+
+Redes de Apoio
+
+Mentor Virtual
+
+Para atender a essas histórias de usuário, foram idealizadas e desenvolvidas as seguintes telas:
+
+Tela de Configuração
+
+Organizador de Tarefas
+
+Tela de Notificações
+
+Tela Inicial
+
+Tela de Chat
+
+Tela de Meditação
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
