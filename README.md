@@ -128,15 +128,16 @@ Na reunião do dia 31/10/2025, conseguimos ter a lógica expressa num fluxograma
 
 - Imagem dos demais fluxogramas:
   
-  <img width="1340" height="801" alt="Fluxograma APS 1" src="https://github.com/user-attachments/assets/8cc90e70-7413-464c-939d-5ec44f48f067" />
-
-  
-  <img width="1149" height="774" alt="Fluxograma APS 2" src="https://github.com/user-attachments/assets/b0e95d18-b5eb-4b6b-84ab-170129acdc90" />
+  <img width="1261" height="820" alt="image" src="https://github.com/user-attachments/assets/95355948-c13b-4372-a922-23b6e2f42a7c" />
 
 
-  <img width="797" height="489" alt="Fluxograma APS 3" src="https://github.com/user-attachments/assets/09ef4e44-6a3f-4e62-88a4-ba74685d6e65" />
+  <img width="1261" height="820" alt="image" src="https://github.com/user-attachments/assets/f8e8c5a8-8e90-40de-ace0-9b83bd58583a" />
 
 
+ <img width="1600" height="832" alt="image" src="https://github.com/user-attachments/assets/658fe320-604e-426f-b23c-b23c5e3249d9" />
+
+
+<img width="1261" height="820" alt="image" src="https://github.com/user-attachments/assets/b8b354d2-fff7-484c-96f8-b8a91dd2d80a" />
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
