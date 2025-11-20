@@ -152,9 +152,17 @@ Nesta call, conseguimos desenvolver nossa tela de login, tendo como nosso princi
 
 # Atualizações (17/11/2025)
 
-Screencast Final
+Screencast
 
 https://youtu.be/zKIo8RJe0PI
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+# Atualizações (19/11/2025)
+
+Neste dia, os integrantes José Edson e Davyson Mendes trabalharam na melhoria das telas que envolvem o planejamento diário do usuário. Algumas funcionalidades adicionadas foram: Adição, exclusão e conclusão de atividades; barra de progresso que reage a conclusão do das tarefas;
+
+--Screencast--
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
