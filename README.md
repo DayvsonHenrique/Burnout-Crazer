@@ -158,7 +158,9 @@ https://youtu.be/zKIo8RJe0PI
 
 # Atualizações (19/11/2025)
 
-Neste dia, os integrantes José Edson e Davyson Mendes trabalharam na melhoria das telas que envolvem o planejamento diário do usuário. Algumas funcionalidades adicionadas foram: Adição, exclusão e conclusão de atividades; barra de progresso que reage a conclusão do das tarefas;
+Neste dia, os integrantes José Edson e Davyson Mendes dedicaram-se ao aprimoramento das telas relacionadas ao planejamento diário do usuário. Durante essa etapa, foram implementadas melhorias significativas que aumentam tanto a usabilidade quanto a eficiência do sistema. Entre as funcionalidades adicionadas, destacam-se: a capacidade de adicionar novas atividades, excluir tarefas já registradas e marcar atividades como concluídas de forma prática e intuitiva.
+
+Além disso, foi incorporada uma barra de progresso dinâmica, que reage automaticamente conforme o usuário finaliza suas tarefas, oferecendo um acompanhamento visual claro do avanço diário. Essas melhorias contribuem diretamente para uma experiência mais organizada, responsiva e personalizada dentro da aplicação.
 
 --Screencast--
 
