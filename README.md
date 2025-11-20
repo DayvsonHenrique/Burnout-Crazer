@@ -20,7 +20,7 @@ A **Síndrome de Burnout**, ou esgotamento profissional, é um distúrbio emocio
 
 O diagnóstico deve ser feito por um psiquiatra, e o tratamento pode incluir psicoterapia, medicação e mudanças no ambiente de trabalho.  
 
-Com base nessa pesquisa conseguimos ter uma noção dessa problemática e definimos o nosso principal objetivo: **a criação de um aplicativo que visa a melhoria da vida dessas pessoas que convivem diariamente com essa síndrome**, que acarreta diversos problemas neurológicos e sociais.
+Com base nessa pesquisa conseguimos ter uma noção dessa problemática e definimos o nosso principal objetivo: **a criação de uma plataforma que visa a melhoria da vida dessas pessoas que convivem diariamente com essa síndrome**, que acarreta diversos problemas neurológicos e sociais.
 
 ![Imagem do WhatsApp de 2025-09-11 à(s) 22 10 03_bbdacf29](https://github.com/user-attachments/assets/a4df8227-b29a-4be8-83b6-5ac49fb83098)
 
@@ -29,16 +29,16 @@ Com base nessa pesquisa conseguimos ter uma noção dessa problemática e defini
 
 # Atualizações (18/09/2025)
 
-As atividades de nosso projeto foram atualizadas e repaginadas, dando início a parte em que realmente teríamos que desenvolver visualmente a nossa aplicação e de forma bem mais palpável e simples para o nosso cliente final entender o que está sendo feito e qual o nosso objetivo final, que está muito bem representado visualmente na plataforma "Figma". O link de acesso estará logo abaixo:
+As atividades de nosso projeto foram atualizadas e repaginadas, dando início a parte em que realmente teríamos que desenvolver visualmente a nossa plataforma e de forma bem mais palpável e simples para o nosso cliente final entender o que está sendo feito e qual o nosso objetivo final, que está muito bem representado visualmente na plataforma "Figma". O link de acesso estará logo abaixo:
 
 https://www.figma.com/design/8J1lIrlRx1VODItoxtfgk4/Burnou-Crazer-app?t=x3AgNroQVeUGu5rJ-1
 
-Para abranger mais, foi gravado um vídeo mostrando toda as funcionalidades e aplicações que terão no nosso app:
+Para abranger mais, foi gravado um vídeo mostrando toda as funcionalidades que terão na nossa plataforma:
 
 [screencast](https://youtu.be/unEm3cf3pmU)
 
 
-E, para complementar, desenvolvemos um fluxograma, no intuito de demonstrar de forma lógica como toda a nossa aplicação funciona e tudo o que a compõe é intrissicamente ligado e interage entre si, evitando assim erros futuros e tornando a experiência de nossos usuário muito mais fluida e satisfatória. Logo abaixo está a representação de como funcionará nossa aplicação:
+E, para complementar, desenvolvemos um fluxograma, no intuito de demonstrar de forma lógica como toda a nossa plataforma funciona e tudo o que a compõe é intrissicamente ligado e interage entre si, evitando assim erros futuros e tornando a experiência de nossos usuário muito mais fluida e satisfatória. Logo abaixo está a representação de como funcionará nossa plataforma:
 
 [Fluxograma da inicialização do app.pdf](https://github.com/user-attachments/files/22426804/Fluxograma.da.inicializacao.do.app.pdf)
 
@@ -48,9 +48,9 @@ E, para finalizar o relatório dessa nossa atualização, a próxima imagem demo
 
 # Atualizações (10/10/2025)
 
-No dia 10/10/2025, a equipe se reuniu para discutir o andamento de nosso projeto, com o objetivo de atender às demandas que já se encaminhavam para a nossa 3ª e uma das entregas mais importantes do projeto. Essa entrega demandaria o desenvolvimento prático de 3 casos de uso, que foram definidos no início do desenvolvimento de todo o aplicativo.
+No dia 10/10/2025, a equipe se reuniu para discutir o andamento de nosso projeto, com o objetivo de atender às demandas que já se encaminhavam para a nossa 3ª e uma das entregas mais importantes do projeto. Essa entrega demandaria o desenvolvimento prático de 3 casos de uso, que foram definidos no início do desenvolvimento de toda a plataforma.
 
-A partir desse ponto, desenvolvemos diagramas de casos de uso, cuja principal funcionalidade seria facilitar o entendimento de nossos desenvolvedores sobre como cada área do aplicativo estaria se comportando e como suas funcionalidades se aplicariam na execução do app. Além disso, os diagramas também demonstrariam como as próprias funcionalidades interagiriam entre si.
+A partir desse ponto, desenvolvemos diagramas de casos de uso, cuja principal funcionalidade seria facilitar o entendimento de nossos desenvolvedores sobre como cada área da plataforma estaria se comportando e como suas funcionalidades se aplicariam na execução. Além disso, os diagramas também demonstrariam como as próprias funcionalidades interagiriam entre si.
 
 Segue em anexo o nosso primeiro diagrama, ilustrando como seria a tela inicial e como ela funcionaria de forma geral:
 
@@ -64,7 +64,7 @@ Segue em anexo a organização de nossa ferramenta de gerenciamento de equipe (J
 
 # Reunião do Grupo (14/10/2025)
 
-Na nossa reunião de 14/10/2025, conseguimos, a partir dos conhecimentos gerais de nossos colegas, pensar em utilizar a ferramenta "FIGMA" para gerar um código funcional para a nossa aplicação, facilitando o desenvolvimento. Dessa forma, passaríamos a nos preocupar apenas com a funcionalidade, ou seja, com o back-end. Com isso, conseguimos realizar a demanda dos 3 casos de uso, que usaremos como uma prévia de como ficará o nosso produto final.
+Na nossa reunião de 14/10/2025, conseguimos, a partir dos conhecimentos gerais de nossos colegas, pensar em utilizar a ferramenta "FIGMA" para gerar um código funcional para a nossa plataforma, facilitando o desenvolvimento. Dessa forma, passaríamos a nos preocupar apenas com a funcionalidade, ou seja, com o back-end. Com isso, conseguimos realizar a demanda dos 3 casos de uso, que usaremos como uma prévia de como ficará o nosso produto final.
 
 
 
@@ -73,9 +73,9 @@ Na nossa reunião de 14/10/2025, conseguimos, a partir dos conhecimentos gerais 
 
 ## Problema Com a Assinatura do Figma 
 
-No dia 18/10/2025, ocorreu um grande desentendimento com os planos e assinaturas do Figma, o que provavelmente forçaria a pausa no desenvolvimento do projeto. No entanto, por sorte, uma de nossas integrantes possui conhecimentos na área de desenvolvimento de apps e, graças a isso, conseguimos realizar a criação do aplicativo.
+No dia 18/10/2025, ocorreu um grande desentendimento com os planos e assinaturas do Figma, o que provavelmente forçaria a pausa no desenvolvimento do projeto. No entanto, por sorte, uma de nossas integrantes possui conhecimentos na área de desenvolvimento web e, graças a isso, conseguimos realizar a criação da plataforma.
 
-Segue em anexo uma das telas já funcionais do app:
+Segue em anexo uma das telas já funcionais da plataforma que estamos desenvolvendo:
 
 Screencast das telas funcionais: https://www.youtube.com/shorts/0lDdmuJa5kI
 
@@ -83,7 +83,7 @@ Screencast das telas funcionais: https://www.youtube.com/shorts/0lDdmuJa5kI
 
 # Atualizações (23/10/2025)
 
-No dia 23/10/2025, os integrantes Eduardo Rocha e Isabel Lugon trabalharam juntos para fazer o upload da pasta com os arquivos da aplicação, mas sofreram problemas na hora da realização. Mesmo após pesquisar como realizar esse upload no GitHub, ainda assim, receberam erros como retorno.
+No dia 23/10/2025, os integrantes Eduardo Rocha e Isabel Lugon trabalharam juntos para fazer o upload da pasta com os arquivos da plataforma, mas sofreram problemas na hora da realização. Mesmo após pesquisar como realizar esse upload no GitHub, ainda assim, receberam erros como retorno.
 
 Como metodologia de programação optamos por usar o Pair Programming, onde dois devs se juntam para poder criar e resolver erros no código:
 
