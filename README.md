@@ -83,13 +83,13 @@ Screencast das telas funcionais: https://www.youtube.com/shorts/0lDdmuJa5kI
 
 # Atualizações (23/10/2025)
 
-No dia 23/10/2025, os integrantes Eduardo Rocha e Isabel Lugon trabalharam juntos para fazer o upload da pasta com os arquivos da plataforma, mas sofreram problemas na hora da realização. Mesmo após pesquisar como realizar esse upload no GitHub, ainda assim, receberam erros como retorno.
+No dia 23/10/2025, os integrantes Eduardo Rocha e Isabel Lugon trabalharam em conjunto para realizar o upload da pasta contendo os arquivos da plataforma. No entanto, durante o processo, surgiram diversos problemas técnicos que impediram a conclusão da tarefa. Mesmo após pesquisarem diferentes tutoriais e orientações sobre como realizar o upload corretamente no GitHub, os erros persistiram como retorno, dificultando o avanço da atividade.
 
-Como metodologia de programação optamos por usar o Pair Programming, onde dois devs se juntam para poder criar e resolver erros no código:
+Como metodologia de programação, optamos por utilizar o Pair Programming, onde dois desenvolvedores trabalham lado a lado para desenvolver funcionalidades, identificar falhas e solucionar problemas de forma colaborativa. Essa abordagem permitiu que a dupla analisasse os erros mais rapidamente e discutisse possíveis soluções durante o processo.
 
 <img width="1280" height="676" alt="image" src="https://github.com/user-attachments/assets/bfcd38de-a607-4d3e-909d-309b113b4f59" />
 
-Nesta Call, os integrantes Isabel Lugon e Eduardo Rocha criaram as telas inicial e de chat com ajuda do Figma AI.
+Durante a call, Isabel Lugon e Eduardo Rocha também aproveitaram para criar as telas inicial e de chat do projeto, contando com o apoio da ferramenta Figma AI, que auxiliou na geração e refinamento do design.
 
 ---------------------------------------------------------------------------------------------------------------------------------
 # Atualizações (25/10/2025)
