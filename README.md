@@ -92,15 +92,7 @@ Como metodologia de programação, optamos por utilizar o Pair Programming, onde
 Durante a call, Isabel Lugon e Eduardo Rocha também aproveitaram para criar as telas inicial e de chat do projeto, contando com o apoio da ferramenta Figma AI, que auxiliou na geração e refinamento do design.
 
 ---------------------------------------------------------------------------------------------------------------------------------
-# Atualizações (25/10/2025)
 
-No dia 25/10/2025, os integrantes Eduardo Rocha e Isabel Lugon trabalharam em conjunto para aprimorar a funcionalidade de registro de humor localizada na tela inicial do aplicativo. Durante essa etapa, foi implementada uma nova ferramenta que atua como um histórico de humor, permitindo registrar e visualizar de forma organizada a data e o estado emocional do usuário. Além disso, a equipe realizou ajustes na interface para tornar o processo de registro mais intuitivo e acessível, garantindo uma experiência mais fluida e personalizada. Essa melhoria contribui diretamente para o acompanhamento contínuo do bem-estar do usuário ao longo do tempo.
-
-![WhatsApp Image 2025-11-19 at 19 47 54](https://github.com/user-attachments/assets/3fd8a6f3-4bc5-4bc0-a014-8c2ded144b0f)
-
---screen cast--
-
----------------------------------------------------------------------------------------------------------------------------------
 # Atualizações (28/10/2025)
 
 Na reunião realizada nesta data, tivemos como principal foco o desenvolvimento da tela de chat. Além disso, fomos encorajados a dar continuidade às demais histórias de usuário, que serão apresentadas a seguir:
@@ -172,6 +164,16 @@ Neste dia, os integrantes José Edson e Davyson Mendes dedicaram-se ao aprimoram
 Além disso, foi incorporada uma barra de progresso dinâmica, que reage automaticamente conforme o usuário finaliza suas tarefas, oferecendo um acompanhamento visual claro do avanço diário. Essas melhorias contribuem diretamente para uma experiência mais organizada, responsiva e personalizada dentro da aplicação.
 
 --Screencast--
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+# Atualizações (20/11/2025)
+
+No dia 20/11/2025, os integrantes Eduardo Rocha e Isabel Lugon trabalharam em conjunto para aprimorar a funcionalidade de registro de humor localizada na tela inicial do aplicativo. Durante essa etapa, foi implementada uma nova ferramenta que atua como um histórico de humor, permitindo registrar e visualizar de forma organizada a data e o estado emocional do usuário. Além disso, a equipe realizou ajustes na interface para tornar o processo de registro mais intuitivo e acessível, garantindo uma experiência mais fluida e personalizada. Essa melhoria contribui diretamente para o acompanhamento contínuo do bem-estar do usuário ao longo do tempo.
+
+![WhatsApp Image 2025-11-19 at 19 47 54](https://github.com/user-attachments/assets/3fd8a6f3-4bc5-4bc0-a014-8c2ded144b0f)
+
+--screen cast--
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
