@@ -107,35 +107,35 @@ Na reunião realizada nesta data, tivemos como principal foco o desenvolvimento 
 
 Histórias de usuário:
 
-Sugestões de Atividades
+  -Sugestões de Atividades
 
-Momento de Meditação
+  -Momento de Meditação
 
-Redes de Apoio
+  -Redes de Apoio
 
-Mentor Virtual
+  -Mentor Virtual
 
 Para atender a essas histórias de usuário, foram idealizadas e desenvolvidas as seguintes telas:
 
-Tela de Configuração
+  -Organizador de Tarefas
 
-Organizador de Tarefas
+  -Tela de Notificações
 
-Tela de Notificações
+  -Tela Inicial
 
-Tela Inicial
+  -Tela de Chat
 
-Tela de Chat
-
-Tela de Meditação
+  -Tela de Meditação
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
 # Atualizações (31/10/2025)
 
-Na reunião do dia 31/10/2025, conseguimos ter a lógica expressa num fluxograma, as quais nossas próximas telas seriam desenvolvidas com base nestes fluxogramas que serão demonstrados a baixo:
+Na reunião do dia 31/10/2025, conseguimos organizar e representar toda a lógica do projeto por meio de um diagrama. Essa estrutura visual passou a guiar a arquitetura das próximas telas, garantindo maior clareza sobre o fluxo de interação do usuário e facilitando o alinhamento entre os membros da equipe.
 
-- Imagem dos demais fluxogramas atualizados:
+Com base nesses diagramas atualizados, definimos a sequência de desenvolvimento das funcionalidades e validamos o caminho que cada componente da interface deverá seguir. As imagens dos diagramas revisados e atualizados serão apresentadas a seguir:
+
+Imagem dos demais diagramas atualizados:
   
   <img width="1299" height="854" alt="image" src="https://github.com/user-attachments/assets/252fc6ce-7c0d-4bfb-8de1-4e35e2e6f523" />
 
@@ -149,7 +149,7 @@ Na reunião do dia 31/10/2025, conseguimos ter a lógica expressa num fluxograma
 
 # Atualizações (03/11/2025)
 
-Nesta call, conseguimos desenvolver nossa tela de login, tendo como nosso principal método de programação a Pair Programming:
+Nesta call, avançamos significativamente no desenvolvimento da tela de login, consolidando sua estrutura inicial e definindo os elementos essenciais de interação do usuário. Para conduzir essa etapa, utilizamos como principal metodologia o Pair Programming, permitindo que dois desenvolvedores trabalhassem simultaneamente na implementação, revisão de lógica e detecção de possíveis ajustes em tempo real. Essa colaboração contribuiu para um processo mais ágil, consistente e alinhado com os requisitos do projeto.
 
 <img width="1625" height="632" alt="image" src="https://github.com/user-attachments/assets/19309068-7e2e-47c9-9cad-d9368364d8e2" />
 
