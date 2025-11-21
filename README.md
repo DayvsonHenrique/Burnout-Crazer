@@ -177,12 +177,6 @@ No dia 20/11/2025, os integrantes Eduardo Rocha e Isabel Lugon trabalharam em co
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-# Screencast Final
-
--screencast-
-
----------------------------------------------------------------------------------------------------------------------------------
-
 # Documentação 
 
 Esta documentação foi criada para ajudar qualquer pessoa, desde iniciantes até colaboradores experientes, a configurar o ambiente necessário e contribuir com o desenvolvimento do Burnout Crazer. O objetivo é garantir que qualquer desenvolvedor possa entrar no projeto com facilidade, entendendo exatamente como preparar seu computador e como participar da construção do projeto de maneira colaborativa, transparente e eficiente.
