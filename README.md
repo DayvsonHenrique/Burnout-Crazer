@@ -163,7 +163,7 @@ Neste dia, os integrantes José Edson e Davyson Mendes dedicaram-se ao aprimoram
 
 Além disso, foi incorporada uma barra de progresso dinâmica, que reage automaticamente conforme o usuário finaliza suas tarefas, oferecendo um acompanhamento visual claro do avanço diário. Essas melhorias contribuem diretamente para uma experiência mais organizada, responsiva e personalizada dentro da aplicação.
 
---Screencast--
+[--Screencast--](https://youtu.be/pNtfJy8mtI8)
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
@@ -173,7 +173,7 @@ No dia 20/11/2025, os integrantes Eduardo Rocha e Isabel Lugon trabalharam em co
 
 ![WhatsApp Image 2025-11-19 at 19 47 54](https://github.com/user-attachments/assets/3fd8a6f3-4bc5-4bc0-a014-8c2ded144b0f)
 
---screen cast--
+[--screen cast--](https://youtu.be/e62UmMcu50c)
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
